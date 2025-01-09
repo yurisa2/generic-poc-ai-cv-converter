@@ -1,0 +1,50 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 12,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "PRIMARY",
+  "disabledWhenInvalid": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "2ep74y7rk0",
+  "leftColumn": 12,
+  "minWidth": 120,
+  "mobileBottomRow": 12,
+  "mobileLeftColumn": 12,
+  "mobileRightColumn": 28,
+  "mobileTopRow": 8,
+  "needsErrorInfo": false,
+  "onClick": "{{navigateTo('https://drive.google.com/drive/folders/1yvuqyDJdSfpRaSSDR0SuifCNMkihEo29?usp=sharing', {}, 'NEW_WINDOW');}}",
+  "parentColumnSpace": 6.9375,
+  "parentId": "tc1gfevqms",
+  "parentRowSpace": 10,
+  "placement": "CENTER",
+  "recaptchaType": "V3",
+  "renderMode": "CANVAS",
+  "resetFormOnClick": false,
+  "responsiveBehavior": "hug",
+  "rightColumn": 51,
+  "text": "Open Release notes",
+  "topRow": 8,
+  "type": "BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "r9cpqp4h74",
+  "widgetName": "Button5"
+}

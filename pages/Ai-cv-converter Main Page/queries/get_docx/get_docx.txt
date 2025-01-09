@@ -1,0 +1,6 @@
+{
+	
+	"html_content": {{ send_file.data }}
+	
+	
+}
