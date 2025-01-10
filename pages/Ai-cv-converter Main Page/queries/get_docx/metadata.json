@@ -11,7 +11,7 @@
           "value": "application/json"
         }
       ],
-      "body": "{\n\t\n\t\"html_content\": {{ send_file.data }}\n\t\n\t\n}",
+      "body": "{\n\t\n\t\"html_content\": {{ send_file.data[\"html_output\"] }}\n\t\n\t\n}",
       "bodyFormData": [],
       "encodeParamsToggle": true,
       "formData": {

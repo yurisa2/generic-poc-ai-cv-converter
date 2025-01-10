@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 15,
+  "bottomRow": 16,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -40,7 +40,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 54,
   "shouldTruncate": false,
-  "text": "- This is a PoC, errors can occur\n- This should not be used in production",
+  "text": "- This is a PoC, errors can occur\n- This should not be used in production\n- Errors are not gracefully handled",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 10,
