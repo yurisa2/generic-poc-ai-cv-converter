@@ -4,7 +4,7 @@
   "bottomRow": 8,
   "boxShadow": "none",
   "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
-  "buttonVariant": "PRIMARY",
+  "buttonVariant": "TERTIARY",
   "disabledWhenInvalid": false,
   "dynamicBindingPathList": [
     {
@@ -24,7 +24,7 @@
   "isLoading": false,
   "isVisible": true,
   "key": "2ep74y7rk0",
-  "leftColumn": 37,
+  "leftColumn": 33,
   "minWidth": 120,
   "mobileBottomRow": 8,
   "mobileLeftColumn": 36,
