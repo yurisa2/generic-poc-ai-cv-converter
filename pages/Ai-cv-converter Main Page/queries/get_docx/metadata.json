@@ -44,9 +44,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "get_docx",
     "pageId": "Ai-cv-converter Main Page",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

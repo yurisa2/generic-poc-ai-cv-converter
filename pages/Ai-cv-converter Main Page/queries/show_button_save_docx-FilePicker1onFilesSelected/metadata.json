@@ -23,10 +23,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "show_button_save_docx.FilePicker1onFilesSelected",
     "name": "FilePicker1onFilesSelected",
     "pageId": "Ai-cv-converter Main Page",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -50,9 +50,9 @@
         "key": "bodyFormData[0].value"
       }
     ],
-    "executeOnLoad": true,
     "name": "send_file",
     "pageId": "Ai-cv-converter Main Page",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }
